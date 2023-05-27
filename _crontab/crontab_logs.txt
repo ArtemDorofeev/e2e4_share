@@ -1,0 +1,1688 @@
+
+2022-02-10 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:31:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython
+/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-10 04:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:07:45
+/opt/anaconda3/envs/jupyter_env/bin/ipython
+/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-10 05:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:03:28
+/opt/anaconda3/envs/jupyter_env/bin/ipython
+/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-10 05:00:02 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:33:13
+/opt/anaconda3/envs/jupyter_env/bin/ipython
+/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-11 00:00:07 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:27:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython
+/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-11 04:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:31
+/opt/anaconda3/envs/jupyter_env/bin/ipython
+/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-11 05:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:03:23
+/opt/anaconda3/envs/jupyter_env/bin/ipython
+/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-11 05:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:33:49
+/opt/anaconda3/envs/jupyter_env/bin/ipython
+/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-12 00:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:30:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-12 04:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:28
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-12 05:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:03:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-12 05:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:34:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-13 00:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:27:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-13 04:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:27
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-13 05:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:03:18
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-13 05:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:34:31
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-14 00:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:28:57
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-14 04:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:30
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-14 05:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:03:18
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-14 05:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:34:18
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-15 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:29:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-15 02:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:12:32
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-15 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:03:20
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-15 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:32:17
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-16 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:29:42
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-16 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-16 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:03:22
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-16 03:00:02 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:31:40
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-16 13:11:21 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-17 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:31:42
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-17 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:01
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-17 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-17 03:00:02 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:32:24
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-18 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:30:11
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-18 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-18 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-18 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:33:43
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-19 00:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:31:35
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-19 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:26
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-19 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-19 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:34:17
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-20 00:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:28:49
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-20 02:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:55
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-20 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-20 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:33:24
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-21 00:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:29:43
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-21 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-21 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-21 03:00:02 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:32:58
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-22 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:31:45
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-22 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-22 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-22 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:34:50
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-23 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:29:53
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-23 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-23 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:34:54
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-24 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:31:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-24 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:18
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-24 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-24 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:35:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-25 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:29:31
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-25 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:23
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-25 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-25 03:00:02 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:35:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-26 00:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:31:35
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-26 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-26 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:16
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-26 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:35:47
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-27 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:26:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-27 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-27 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:12
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-27 03:00:02 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:35:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-02-28 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:27:49
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-02-28 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:02
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-02-28 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-02-28 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:35:52
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-01 00:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:28:39
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-01 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:02
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-01 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-01 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:36:57
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-02 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:28:36
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-02 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:41
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-02 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-02 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:39:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-03 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:26:36
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-03 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:52
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-03 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-03 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:39:16
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-04 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:27:24
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-04 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:36
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-04 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-04 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:40:15
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-05 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:28:38
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-05 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:57
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-05 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-05 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:41:11
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-06 00:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:26:39
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-06 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-06 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-06 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:43:01
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-07 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:26:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-07 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:00
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-07 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:12
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-07 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:42:17
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-08 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:27:28
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-08 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:02
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-08 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-08 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:42:16
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-09 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:25:58
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-09 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-09 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-09 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:41:26
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-10 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:26:02
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-10 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:55
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-10 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-10 03:00:02 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:42:43
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-11 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:28:15
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-11 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:57
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-11 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-11 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:44:37
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-12 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:29:25
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-12 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:45
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-12 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-12 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:45:44
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-13 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:27:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-13 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:38
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-13 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-13 03:00:02 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:46:39
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-14 00:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:27:41
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-14 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:58
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-14 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-14 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:43:34
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-15 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:27:16
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-15 02:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:15
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-15 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-15 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:44:24
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-16 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:29:44
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-16 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:24
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-16 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-16 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:46:28
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-17 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:28:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-17 02:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:43
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-17 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-17 03:00:02 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:46:46
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-18 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:25:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-18 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:51
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-18 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-18 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:47:47
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-19 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:28:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-19 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:04:02
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-19 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-19 03:00:04 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:50:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-20 00:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:24:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-20 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-20 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-20 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:46:58
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-21 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:29:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-21 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:20
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-21 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-21 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:47:27
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-22 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:28:35
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-22 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:42
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-22 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-22 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:49:57
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-23 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:27:34
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-23 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:46
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-23 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:49:34
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-24 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:27:35
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-24 02:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:55
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-24 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-24 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:51:26
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-25 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:29:53
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-25 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:32
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-25 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-25 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:52:13
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-26 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:28:01
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-26 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-26 15:13:07 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-26 15:13:20 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:51:53
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-27 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:29:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-27 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:40
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-27 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:12
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-27 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:51:56
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-28 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:28:36
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-28 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-28 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-28 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:50:54
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-29 00:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:28:50
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-29 02:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:03:47
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-29 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-29 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:53:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-30 00:00:03 || [АВТОЗАПУСК] Источники для BI (Продажи_).py || время выполнения = 1:29:44
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2022-03-30 02:00:02 || [АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py || время выполнения = 0:02:20
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+2022-03-30 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+2022-03-30 03:00:03 || [АВТОЗАПУСК] Источники для BI (Заказы с метками).py || время выполнения = 3:52:56
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+2022-03-31 16:19:20 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'	_Клиенты (справочник):(885577, 19)
+2022-03-31 17:37:33 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:11
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'	_Клиенты (справочник):(885592, 19)
+2022-04-01 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(885620, 19)
+2022-04-02 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(885781, 19)
+2022-04-03 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:11
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(885857, 19)
+2022-04-04 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(885930, 19)
+2022-04-05 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(886067, 19)
+2022-04-06 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(886298, 19)
+2022-04-07 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:01
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(886438, 19)
+2022-04-08 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(886589, 19)
+2022-04-09 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:14
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(886725, 19)
+2022-04-09 16:28:46 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:18
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(886771, 19)
+2022-04-10 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:23
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(886800, 19)
+2022-04-11 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:23
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(886875, 19)
+2022-04-12 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:21
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(887046, 19)
+2022-04-13 11:59:25 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(887289, 19)
+2022-04-14 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(887424, 19)
+2022-04-15 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:16
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(887552, 19)
+2022-04-16 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:16
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(887647, 19)
+2022-04-17 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:14
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(887700, 19)
+2022-04-18 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:16
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(887761, 19)
+2022-04-19 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(887882, 19)
+2022-04-20 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:21
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(888071, 19)
+2022-04-21 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(888207, 19)
+2022-04-21 11:47:26 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:12
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(888243, 19)
+2022-04-22 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(888351, 19)
+2022-04-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(888475, 19)
+2022-04-24 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(888542, 19)
+2022-04-25 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:17
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(888585, 19)
+2022-04-26 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(888731, 19)
+2022-04-27 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:12
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(888924, 19)
+2022-04-28 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:15
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889044, 19)
+2022-04-29 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:13
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889171, 19)
+2022-04-30 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:13
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889270, 19)
+2022-05-01 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:17
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889319, 19)
+2022-05-02 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889353, 19)
+2022-05-03 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889396, 19)
+2022-05-04 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:18
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889445, 19)
+2022-05-05 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:11
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889558, 19)
+2022-05-06 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:15
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889677, 19)
+2022-05-07 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889792, 19)
+2022-05-08 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889859, 19)
+2022-05-09 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889914, 19)
+2022-05-10 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889950, 19)
+2022-05-11 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(889996, 19)
+2022-05-12 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:03:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(890142, 19)
+2022-05-13 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(890279, 19)
+2022-05-14 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(890418, 19)
+2022-05-15 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:11
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(890493, 19)
+2022-05-16 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(890554, 19)
+2022-05-17 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(890710, 19)
+2022-05-18 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(890930, 19)
+2022-05-19 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(891066, 19)
+2022-05-20 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(891207, 19)
+2022-05-21 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(891349, 19)
+2022-05-22 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(891394, 19)
+2022-05-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(891448, 19)
+2022-05-24 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:02
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(891603, 19)
+2022-05-25 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(891735, 19)
+2022-05-26 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(891875, 19)
+2022-05-27 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(892005, 19)
+2022-05-28 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(892132, 19)
+2022-05-29 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(892187, 19)
+2022-05-30 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(892241, 19)
+2022-05-31 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:11
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(892384, 19)
+2022-06-01 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(892525, 19)
+2022-06-02 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:15
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(892680, 19)
+2022-06-03 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(892832, 19)
+2022-06-04 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(892933, 19)
+2022-06-05 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(892997, 19)
+2022-06-06 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(893064, 19)
+2022-06-07 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(893221, 19)
+2022-06-08 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(893355, 19)
+2022-06-09 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(893490, 19)
+2022-06-10 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(893620, 19)
+2022-06-11 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(893741, 19)
+2022-06-12 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(893782, 19)
+2022-06-13 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(893839, 19)
+2022-06-14 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:02
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(893893, 19)
+2022-06-15 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(894016, 19)
+2022-06-16 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(894159, 19)
+2022-06-17 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(894324, 19)
+2022-06-18 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(894462, 19)
+2022-06-19 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(894523, 19)
+2022-06-20 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(894584, 19)
+2022-06-21 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(894726, 19)
+2022-06-22 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(894858, 19)
+2022-06-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(894999, 19)
+2022-06-24 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(895134, 19)
+2022-06-25 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:12
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(895307, 19)
+2022-06-26 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:11
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(895367, 19)
+2022-06-27 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(895424, 19)
+2022-06-28 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:11
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(895548, 19)
+2022-06-29 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:00
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(895687, 19)
+2022-06-30 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(895828, 19)
+2022-07-01 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(895967, 19)
+2022-07-02 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(896115, 19)
+2022-07-03 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(896176, 19)
+2022-07-04 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(896263, 19)
+2022-07-05 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(896449, 19)
+2022-07-06 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(896613, 19)
+2022-07-07 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:17
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(896781, 19)
+2022-07-08 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(896909, 19)
+2022-07-09 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(897046, 19)
+2022-07-10 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(897128, 19)
+2022-07-11 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(897196, 19)
+2022-07-12 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(897342, 19)
+2022-07-13 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(897490, 19)
+2022-07-14 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(897610, 19)
+2022-07-15 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(897763, 19)
+2022-07-16 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(897884, 19)
+2022-07-17 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(897957, 19)
+2022-07-18 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(898025, 19)
+2022-07-19 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:11
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(898159, 19)
+2022-07-20 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(898319, 19)
+2022-07-21 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(898496, 19)
+2022-07-22 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(898669, 19)
+2022-07-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(898813, 19)
+2022-07-24 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(898901, 19)
+2022-07-25 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(898997, 19)
+2022-07-26 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(899199, 19)
+2022-07-27 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(899402, 19)
+2022-07-28 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(899589, 19)
+2022-07-29 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(899738, 19)
+2022-07-30 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(899891, 19)
+2022-07-31 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(900020, 19)
+2022-08-01 03:00:02 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(900163, 19)
+2022-08-02 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(900296, 19)
+2022-08-03 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(900437, 19)
+2022-08-04 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(900595, 19)
+2022-08-05 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:12
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(900742, 19)
+2022-08-06 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:14
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(900873, 19)
+2022-08-07 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:17
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(900939, 19)
+2022-08-08 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:14
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(901008, 19)
+2022-08-09 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:17
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(901151, 19)
+2022-08-10 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:04:18
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(901295, 19)
+2022-08-11 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(901431, 19)
+2022-08-12 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(901602, 19)
+2022-08-13 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:27
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(901732, 19)
+2022-08-14 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:50
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(901809, 19)
+2022-08-15 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:50
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(901878, 19)
+2022-08-16 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:58
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(902040, 19)
+2022-08-17 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(902211, 19)
+2022-08-18 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(902371, 19)
+2022-08-19 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:57
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(902525, 19)
+2022-08-20 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:00
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(902658, 19)
+2022-08-21 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:55
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(902744, 19)
+2022-08-22 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:54
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(902830, 19)
+2022-08-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:55
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(902998, 19)
+2022-08-24 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:52
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(903153, 19)
+2022-08-25 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(903307, 19)
+2022-08-26 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:51
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(903467, 19)
+2022-08-27 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:58
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(903587, 19)
+2022-08-28 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:54
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(903683, 19)
+2022-08-29 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:56
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(903770, 19)
+2022-08-30 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(903943, 19)
+2022-08-31 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:52
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(904104, 19)
+2022-09-01 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(904294, 19)
+2022-09-02 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:55
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(904478, 19)
+2022-09-03 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:51
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(904612, 19)
+2022-09-04 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:46
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(904707, 19)
+2022-09-05 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(904792, 19)
+2022-09-06 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:51
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(904985, 19)
+2022-09-07 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(905126, 19)
+2022-09-08 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:53
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(905295, 19)
+2022-09-09 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:42
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(905446, 19)
+2022-09-10 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:00
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(905568, 19)
+2022-09-11 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:01
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(905649, 19)
+2022-09-12 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:51
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(905727, 19)
+2022-09-13 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:55
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(905888, 19)
+2022-09-14 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:49
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(906040, 19)
+2022-09-15 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:50
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(906210, 19)
+2022-09-16 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:52
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(906397, 19)
+2022-09-17 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:53
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(906549, 19)
+2022-09-18 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:52
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(906635, 19)
+2022-09-19 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:45
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(906722, 19)
+2022-09-20 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:51
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(906890, 19)
+2022-09-21 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(907066, 19)
+2022-09-22 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:56
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(907213, 19)
+2022-09-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:58
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(907339, 19)
+2022-09-24 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:50
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(907466, 19)
+2022-09-25 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:51
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(907587, 19)
+2022-09-26 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(907703, 19)
+2022-09-27 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:02
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(907853, 19)
+2022-09-28 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(908016, 19)
+2022-09-29 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(908171, 19)
+2022-09-30 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(908349, 19)
+2022-10-01 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(908491, 19)
+2022-10-02 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:00
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(908588, 19)
+2022-10-03 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(908679, 19)
+2022-10-04 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(908891, 19)
+2022-10-05 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:58
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(909072, 19)
+2022-10-06 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(909210, 19)
+2022-10-07 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:54
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(909382, 19)
+2022-10-08 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(909529, 19)
+2022-10-09 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(909608, 19)
+2022-10-10 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:13
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(909704, 19)
+2022-10-11 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(909891, 19)
+2022-10-12 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(910063, 19)
+2022-10-13 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:05
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(910262, 19)
+2022-10-14 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(910439, 19)
+2022-10-15 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(910580, 19)
+2022-10-16 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:57
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(910688, 19)
+2022-10-17 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:53
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(910788, 19)
+2022-10-18 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(910929, 19)
+2022-10-19 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:11
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(911156, 19)
+2022-10-20 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(911347, 19)
+2022-10-21 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(911503, 19)
+2022-10-22 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:52
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(911644, 19)
+2022-10-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:56
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(911738, 19)
+2022-10-24 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:52
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(911830, 19)
+2022-10-25 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:06
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(912013, 19)
+2022-10-26 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(912214, 19)
+2022-10-27 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:58
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(912397, 19)
+2022-10-28 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:52
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(912613, 19)
+2022-10-29 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:56
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(912782, 19)
+2022-10-30 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:54
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(912889, 19)
+2022-10-31 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(912979, 19)
+2022-11-01 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:04
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(913177, 19)
+2022-11-02 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(913349, 19)
+2022-11-03 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(913535, 19)
+2022-11-04 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:53
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(913716, 19)
+2022-11-07 10:41:41 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:58
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(914095, 19)
+2022-11-08 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(914252, 19)
+2022-11-09 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:01
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(914433, 19)
+2022-11-10 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:57
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(914647, 19)
+2022-11-11 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:54
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(914851, 19)
+2022-11-12 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:55
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(915030, 19)
+2022-11-13 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:49
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(915144, 19)
+2022-11-14 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:55
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(915279, 19)
+2022-11-15 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:53
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(915481, 19)
+2022-11-16 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:55
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(915689, 19)
+2022-11-17 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:49
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(915913, 19)
+2022-11-18 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:58
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(916087, 19)
+2022-11-19 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:56
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(916248, 19)
+2022-11-20 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:56
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(916338, 19)
+2022-11-21 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:51
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(916472, 19)
+2022-11-22 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:58
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(916653, 19)
+2022-11-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(916890, 19)
+2022-11-24 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:02
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(917104, 19)
+2022-11-25 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(917309, 19)
+2022-11-26 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(917456, 19)
+2022-11-27 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(917545, 19)
+2022-11-28 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(917640, 19)
+2022-11-29 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:07
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(917827, 19)
+2022-11-30 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:00
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(918035, 19)
+2022-12-01 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:01
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(918240, 19)
+2022-12-02 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:57
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(918408, 19)
+2022-12-03 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(919275, 19)
+2022-12-04 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:12
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(920049, 19)
+2022-12-05 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:09
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(920352, 19)
+2022-12-06 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:17
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(920840, 19)
+2022-12-07 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:57
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(921168, 19)
+2022-12-07 15:36:42 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:56
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(921330, 19)
+2022-12-08 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:57
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(921490, 19)
+2022-12-09 11:53:16 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:32
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(922008, 21)
+2022-12-10 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:56
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(922031, 19)
+2022-12-11 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:05:57
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(922190, 19)
+2022-12-12 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:03
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(922377, 19)
+2022-12-13 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:20
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(922599, 19)
+2022-12-13 13:46:29 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(922687, 21)
+2022-12-14 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:28
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(922829, 21)
+2022-12-14 13:10:28 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:14
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(922906, 21)
+2022-12-15 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:18
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(923079, 21)
+2022-12-16 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:18
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(923294, 21)
+2022-12-17 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:16
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(923514, 21)
+2022-12-18 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(923682, 21)
+2022-12-19 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:12
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(923833, 21)
+2022-12-20 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(924048, 21)
+2022-12-21 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:20
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(924242, 21)
+2022-12-22 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:28
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(924454, 21)
+2022-12-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(924635, 21)
+2022-12-24 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:14
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(924781, 21)
+2022-12-25 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:18
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(924915, 21)
+2022-12-26 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:16
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(925101, 21)
+2022-12-27 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:14
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(925360, 21)
+2022-12-28 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:13
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(925597, 21)
+2022-12-29 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:20
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(925820, 21)
+2022-12-29 16:25:26 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:21
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(925945, 21)
+2022-12-30 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:12
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(926038, 21)
+2022-12-31 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:17
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(926184, 21)
+2023-01-01 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:31
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(926237, 21)
+2023-01-02 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:21
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(926287, 21)
+2023-01-03 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:23
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(926341, 21)
+2023-01-04 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:15
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(926386, 21)
+2023-01-05 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:16
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(926474, 21)
+2023-01-06 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:24
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(926580, 21)
+2023-01-07 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:20
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(926667, 21)
+2023-01-08 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:26
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(926761, 21)
+2023-01-09 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:28
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(926840, 21)
+2023-01-10 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:31
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(927057, 21)
+2023-01-11 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:23
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(927401, 21)
+2023-01-12 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:26
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(927787, 21)
+2023-01-13 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:26
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(928028, 21)
+2023-01-14 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:23
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(928185, 21)
+2023-01-15 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:21
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(928308, 21)
+2023-01-16 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(928412, 21)
+2023-01-17 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:17
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(928632, 21)
+2023-01-18 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:22
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(928837, 21)
+2023-01-19 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(929046, 21)
+2023-01-20 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(929192, 21)
+2023-01-21 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:30
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(929398, 21)
+2023-01-22 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:24
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(929503, 21)
+2023-01-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:21
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(929598, 21)
+2023-01-24 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:22
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(929847, 21)
+2023-01-25 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:25
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(930050, 21)
+2023-01-26 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:26
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(930264, 21)
+2023-01-27 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:24
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(930411, 21)
+2023-01-28 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:29
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(930616, 21)
+2023-01-29 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:30
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(930714, 21)
+2023-01-30 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:22
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(930830, 21)
+2023-01-31 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:30
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(931041, 21)
+2023-02-01 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:25
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(931251, 21)
+2023-02-02 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:27
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(931442, 21)
+2023-02-03 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:27
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(931677, 21)
+2023-02-04 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:25
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(931908, 21)
+2023-02-05 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:25
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(932000, 21)
+2023-02-06 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:23
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(932107, 21)
+2023-02-07 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:20
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(932281, 21)
+2023-02-08 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:23
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(932465, 21)
+2023-02-09 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:33
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(932727, 21)
+2023-02-10 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:19
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(932899, 21)
+2023-02-11 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:27
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(933090, 21)
+2023-02-12 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:23
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(933201, 21)
+2023-02-13 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:22
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(933291, 21)
+2023-02-14 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:24
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(933482, 21)
+2023-02-15 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:24
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(933695, 21)
+2023-02-17 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:25
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(934186, 21)
+2023-02-18 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:26
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(934367, 21)
+2023-02-19 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:28
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(934471, 21)
+2023-02-20 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:22
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(934580, 21)
+2023-02-21 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:31
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(934798, 21)
+2023-02-22 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:24
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(934986, 21)
+2023-02-23 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:07:01
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(935158, 21)
+2023-02-24 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:07:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(935239, 21)
+2023-02-25 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:07:08
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(935322, 21)
+2023-02-26 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:07:23
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(935402, 21)
+2023-02-27 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:07:02
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(935489, 21)
+2023-02-28 03:00:03 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:07:10
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(935656, 21)
+2023-03-01 11:21:07 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:29
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(935991, 21)
+2023-03-02 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:30
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(936132, 21)
+2023-03-03 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:23
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(936295, 21)
+2023-03-04 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:22
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(936470, 21)
+2023-03-05 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:29
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(936558, 21)
+2023-03-06 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:28
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(936655, 21)
+2023-03-07 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:30
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(936851, 21)
+2023-03-08 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:31
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(937023, 21)
+2023-03-09 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:31
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(937098, 21)
+2023-03-10 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:26
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(937289, 21)
+2023-03-10 14:39:47 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:36
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(937414, 22)
+2023-03-10 14:48:36 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:30
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(937418, 22)
+2023-03-11 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:33
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(937498, 22)
+2023-03-12 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:44
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(937600, 22)
+2023-03-13 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:30
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(937675, 22)
+2023-03-14 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:32
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(937846, 22)
+2023-03-15 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:37
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(938039, 22)
+2023-03-16 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:34
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(938214, 22)
+2023-03-17 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:35
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(938360, 22)
+2023-03-18 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:38
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(938531, 22)
+2023-03-19 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:33
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(938732, 22)
+2023-03-20 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:35
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(938821, 22)
+2023-03-21 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:30
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(939070, 22)
+2023-03-22 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:33
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(939402, 22)
+2023-03-23 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:36
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(939686, 22)
+2023-03-24 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:39
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(939862, 22)
+2023-03-25 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:41
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(940030, 22)
+2023-03-26 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:42
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(940115, 22)
+2023-03-27 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:49
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(940218, 22)
+2023-03-28 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:37
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(940441, 22)
+2023-03-29 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:39
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(940664, 22)
+2023-03-30 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:40
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(940854, 22)
+2023-03-31 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:37
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(941013, 22)
+2023-04-01 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:34
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(941185, 22)
+2023-04-02 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:33
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(941277, 22)
+2023-04-03 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:34
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(941385, 22)
+2023-04-04 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:32
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(941594, 22)
+2023-04-05 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:39
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(941840, 22)
+2023-04-06 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:43
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(942029, 22)
+2023-04-07 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:52
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(942210, 22)
+2023-04-08 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:37
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(942345, 22)
+2023-04-09 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:45
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(942430, 22)
+2023-04-10 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:37
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(942507, 22)
+2023-04-11 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(942696, 22)
+2023-04-12 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(942871, 22)
+2023-04-13 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:34
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(943011, 22)
+2023-04-14 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:36
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(943159, 22)
+2023-04-15 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:34
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(943317, 22)
+2023-04-16 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:33
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(943396, 22)
+2023-04-17 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:36
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(943477, 22)
+2023-04-18 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:40
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(943640, 22)
+2023-04-19 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:34
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(943864, 22)
+2023-04-20 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:30
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(944185, 22)
+2023-04-21 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:44
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(944360, 22)
+2023-04-22 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:34
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(944588, 22)
+2023-04-23 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:30
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(944668, 22)
+2023-04-24 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:44
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(944733, 22)
+2023-04-25 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:47
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(944959, 23)
+2023-04-26 11:49:29 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:50
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(945232, 23)
+2023-04-27 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:52
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(945343, 23)
+2023-04-28 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:59
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(945505, 23)
+2023-04-29 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:52
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(945655, 23)
+2023-04-30 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:49
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(945729, 23)
+2023-05-01 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:07:01
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(945789, 23)
+2023-05-02 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:44
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(945875, 23)
+2023-05-03 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:51
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(946093, 23)
+2023-05-04 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:49
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(946269, 23)
+2023-05-05 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:47
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(946377, 23)
+2023-05-06 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:46
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(946493, 23)
+2023-05-07 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:51
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(946554, 23)
+2023-05-08 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:49
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(946613, 23)
+2023-05-09 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:46
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(946672, 23)
+2023-05-10 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:43
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(946718, 23)
+2023-05-11 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:48
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(946899, 23)
+2023-05-12 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:41
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(947075, 23)
+2023-05-13 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:53
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(947227, 23)
+2023-05-14 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:47
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(947298, 23)
+2023-05-15 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:49
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(947371, 23)
+2023-05-16 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:50
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(947568, 23)
+2023-05-17 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:45
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(947752, 23)
+2023-05-18 03:00:04 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:50
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(947918, 23)
+2023-05-19 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:50
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(948056, 23)
+2023-05-20 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:41
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(948167, 23)
+2023-05-21 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:43
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(948224, 23)
+2023-05-22 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:40
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(948278, 23)
+2023-05-23 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:44
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(948443, 23)
+2023-05-24 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:56
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(948664, 23)
+2023-05-25 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:46
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(948807, 23)
+2023-05-26 03:00:05 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:49
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(948997, 23)
+2023-05-27 03:00:06 ||  [АВТОЗАПУСК] Источники для BI (Справочники).py || время выполнения = 0:06:47
+/opt/anaconda3/envs/jupyter_env/bin/ipython	/home/slebedev/jhub-analytics/'_ Analytics department'/' [АВТОЗАПУСК] Источники для BI (Справочники).py'
+_Клиенты (справочник):(949133, 23)

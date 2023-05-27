@@ -1,0 +1,128 @@
+EDITOR=nano crontab -e
+
+
+python /home/slebedev/jhub-analytics/testcron.py
+
+
+ipython /home/slebedev/jhub-analytics/testcron.py
+
+
+
+[slebedev@jupyterhub ~]$ which python
+/bin/python
+
+(base) [root@jupyterhub ~]# which python
+/opt/anaconda3/bin/python
+
+
+
+
+(base) [root@jupyterhub ~]# '/opt/anaconda3/envs/jupyter_env/bin/python' -m pip install xmltodict
+(base) [root@jupyterhub ~]# '/opt/anaconda3/envs/jupyter_env/bin/ipython' -m pip install ipynbname
+
+
+
+
+
+(base) [root@jupyterhub ~]# '/opt/anaconda3/envs/jupyter_env/bin/ipython' -m pip install 
+
+
+
+!!!!
+
+/opt/anaconda3/envs/jupyter_env/bin/ipython /home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] [last2month] Источники для BI (Продажи).py'
+
+!!!
+
+crontab -e
+
+1 0 * * * /opt/anaconda3/envs/jupyter_env/bin/ipython /home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+0 2 * * * /opt/anaconda3/envs/jupyter_env/bin/ipython /home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+0 3 * * * /opt/anaconda3/envs/jupyter_env/bin/ipython /home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Справочники).py'
+0 3 * * * /opt/anaconda3/envs/jupyter_env/bin/ipython /home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+
+
+!!!!
+
+Для открытия в редакторе nano достаточно выполнить команду:
+EDITOR=nano crontab -e
+
+Установка nano редактором по умолчанию
+export EDITOR=nano
+
+Запуск Python-скрипта с помощью Сron
+
+экспорт в .py ноут
+# print('print xfjxfgn')
+# from datetime import datetime
+# with open(r'/home/slebedev/jhub-analytics/test.txt', 'a+', encoding='utf-8') as file:
+#     file.write(datetime.today().strftime('%Y-%m-%d-%H-%M-%S') + '\n')
+get_ipython().run_line_magic('matplotlib', 'inline')
+# run files
+get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/Import_libs.py')
+get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/Connecting_.py')
+get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/my_script.py')
+get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/Date_gen.py')
+get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/xx.py')
+# print
+###########################
+#################################
+print(
+df_test_xx.shape, '\n'
+,abs_path, '\n' # abs_path - путь до шары (видна всем езерам - '/srv/jhub/share/')
+,path_OUT_dbDATA, '\n'
+,date_start, date_end, '\n'
+)
+############################## End ##############################
+
+
+
+crontab -l # выводит список текущих заданий
+crontab -e # открывает файл заданий
+crontab -r # удаляет файл задания
+Пишем в консоль crontab -e
+
+(сделать некоторые правки, заканчивая ESCAPE)
+:wq
+
+* * * * * cd /home/iakulshin/pipeline && /home/iakulshin/pipeline/venv/bin/python3 test.py
+[минута] [час] [день] [месяц] [день недели] [Переходим в папку] [&& - означает "и"] [с помощью интерпретатора python3 запускаем файл test.py]
+
+
+https://crontab.guru/ конструктор для составления расписаний cron
+
+
+
+Как понять что Cron срабатывает?
+Чтобы удостовериться, что cron-таск отрабатывает, нам необходимо добавить задачу и обратиться к логам сервера, для этого идем в консоль и пишем следующую команду:
+
+tail /var/log/syslog # получаем "хвост", последние 10 строк лог-файла
+
+
+
+Cron срабатывает но Python-скрипт не выполняется
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

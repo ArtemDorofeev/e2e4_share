@@ -1,0 +1,42 @@
+***
+[slebedev@jupyterhub ~]$ /opt/anaconda3/envs/jupyter_env/bin/ipython /home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+2020-10-01 || 2020-10-31
+подставляем даты, выгружаем
+✔ .read_sql_query
+✔ .to_excel
+✔ .to_pickle
+---------------------------------------------------------------------------
+HTTPResponseError                         Traceback (most recent call last)
+~/jhub-analytics/_ Analytics department/Источники для BI (Продажи)/[АВТОЗАПУСК] Источники для BI (Продажи_).py in <module>
+     70         print('✔ .to_pickle')
+     71 
+---> 72         Amazon_owncloud.put_file( # полный путь и там и там!!! 
+     73                     AmazonS3_full_path + '.xlsx', temp_tmp + AmazonS3_file_name + '.xlsx')
+     74         print( f'✔ Файл записан в облако\n {AmazonS3_full_path}.xlsx')
+
+/opt/anaconda3/envs/jupyter_env/lib/python3.9/site-packages/owncloud/owncloud.py in put_file(self, remote_path, local_source_file, **kwargs)
+    571         """
+    572         if kwargs.get('chunked', True):
+--> 573             return self._put_file_chunked(
+    574                 remote_path,
+    575                 local_source_file,
+
+/opt/anaconda3/envs/jupyter_env/lib/python3.9/site-packages/owncloud/owncloud.py in _put_file_chunked(self, remote_path, local_source_file, **kwargs)
+    679                 chunk_name = remote_path
+    680 
+--> 681             if not self._make_dav_request(
+    682                     'PUT',
+    683                     chunk_name,
+
+/opt/anaconda3/envs/jupyter_env/lib/python3.9/site-packages/owncloud/owncloud.py in _make_dav_request(self, method, path, **kwargs)
+   1813         if res.status_code in [204, 201]:
+   1814             return True
+-> 1815         raise HTTPResponseError(res)
+   1816 
+   1817     def _parse_dav_response(self, res):
+
+HTTPResponseError: HTTP error: 423
+
+423 Locked — целевой ресурс из запроса заблокирован от применения к нему указанного метода. Введено в WebDAV.
+***
+

@@ -1,0 +1,142 @@
+crontab -e
+Команда для сохранения файла в Vim и выхода из редактора есть :wq 
+
+0 0 * * * /opt/anaconda3/envs/jupyter_env/bin/ipython /home/slebedev/jhub-analytics/'_ Analytics department'/'[АВТОЗАПУСК]'/'[АВТОЗАПУСК] BA-470 Оплаченные заказы с сайта для метрики.py'
+
+1 0 * * * /opt/anaconda3/envs/jupyter_env/bin/ipython /home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
+0 2 * * * /opt/anaconda3/envs/jupyter_env/bin/ipython /home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
+0 3 * * * /opt/anaconda3/envs/jupyter_env/bin/ipython /home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Справочники).py'
+0 3 * * * /opt/anaconda3/envs/jupyter_env/bin/ipython /home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+
+
+###
+ЛОГИ logs
+все юзеры могли записывать и считывать  и дополнять в файл
+chmod 666 твой_файл.txt
+вывод в файл можно сделать
+чтото типа echo "Лог лог лог" >> /var/log/file.log
+тоже без открытия, а просто вывод данных
+cat /var/log/file
+###
+
+--путь до ФАЙЛОВ отчетов с конфы 
+
+[slebedev@jupyterhub Среднесуточные складские остатки в разрезе индекса продаж]$ pwd
+/home/slebedev/jhub-analytics/'Аналитика'/'Аналитика (confluence)'/
+
+--CP - КОПИРОВАНИЕ ФАЙЛОВ
+Это cp и mv - это похожие команды linux для работы с файлами. Они работают аналогичным образом, только исходный файл остается на своем месте
+cp file newfile
+cp -r рекурсивно
+
+просто на .
+cp /home/slebedev/jhub-analytics/'Аналитика'/'Аналитика (confluence)'/'Среднесуточные складские остатки в разрезе индекса продаж'/'Среднесуточные складские остатки в разрезе индекса продаж.ipynb' /home/slebedev/jhub-analytics/'Аналитика'/'Аналитика (confluence)'/'Среднесуточные складские остатки в разрезе индекса продаж'/'.Среднесуточные складские остатки в разрезе индекса продаж.ipynb'
+
+. на просто 
+cp /home/slebedev/jhub-analytics/'Аналитика'/'Аналитика (confluence)'/'Среднесуточные складские остатки в разрезе индекса продаж'/'.Среднесуточные складские остатки в разрезе индекса продаж.ipynb' /home/slebedev/jhub-analytics/'Аналитика'/'Аналитика (confluence)'/'Среднесуточные складские остатки в разрезе индекса продаж'/'Среднесуточные складские остатки в разрезе индекса продаж.ipynb'
+
+--УДАЛИТЬ
+rm -Rfv моя_папка 
+Команда -R включает рекурсивное удаление всех подпапок и файлов в них, -f - разрешает не удалять файлы без запроса, а -v показывает имена удаляемых файлов. В этих примерах я предполагаю что папка которую нужно удалить находится в текущей рабочей папке, например, домашней. Но это необязательно, вы можете указать полный путь к ней начиная от корня файловой системы:
+
+rm -Rfv /home/slebedev/jhub-analytics/'Аналитика'/'Аналитика (confluence)'/'.Среднесуточные складские остатки в разрезе индекса продаж'
+
+
+
+
+    #     !pip3 install pyocclient==0.6
+    #     !pip install pyocclient # https://pypi.org/project/pyocclient/
+    #     import owncloud
+############################################################
+    ## AttributeError: 'NoneType' object has no attribute 'text' 
+    ## https://github.com/owncloud/pyocclient/issues/218 Similar bugs #218, #259. #263 (with a simple fix proposal - a mere workaround)
+    ## I have solved this issue within installing version 0.4 of pyocclient pip3 install pyocclient==0.4
+    ## Works without any errors - не помогло 
+    ## https://github.com/owncloud/pyocclient/issues/263 - поменять код в файле либы надо 
+    ## link_info = Amazon_owncloud.share_file_with_link( all_variables.reports_folder_jupyter_to_s3 )
+    ## print ("Ссылка: " + link_info.get_link())
+############################################################
+# # отсюда импортятся все скрипты (им нужны либы иначе потом юпитер жалуется) поэтому может потом надо почистить 
+############################################################
+
+# ОЧИСТКА 
+# хз судя по free -g  она НЕ особо то нужна (прогрузил сожрал раму потом как закончил рама вернулась! даже после шатдауна она остается неизменной)
+
+# automatically restarts kernel # Ядро, по-видимому, умерло. Оно будет перезапущено автоматически.
+# IPython.Application.instance().kernel.do_shutdown(True); 
+
+# %load_ext autoreload
+# %reload_ext autoreload
+# %autoreload 2
+
+# gc.collect() # очистка памяти типо
+# замочить все вариаблы
+# %reset -f 
+# рестарнуть кернал текущ
+# from IPython.display import display_html
+# def restartkernel() :
+#     display_html("<script>Jupyter.notebook.kernel.restart()</script>",raw=True)
+# restartkernel()
+
+############################################################
+
+# Imports 
+
+# !! НЕ РАБОТАЕТ МАГИЯ в py когда запускаешь эти py в юпитере раном
+# get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/Import_libs.py')
+# get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/Connecting_.py')
+# get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/my_script.py')
+# get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/Date_gen.py')
+# get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/xx.py')
+
+
+
+# %%javascript
+# IPython.notebook.kernel.execute('ipynb_file_name_ext = "' + IPython.notebook.notebook_name + '"')
+# // получить имя файла не питона а юпитер ноут в переменную ipynb_file_name
+# // работает только когда запускаем вручную 
+ 
+# %%javascript
+# IPython.notebook.kernel.execute(`ipynb_file_name_ext = '${window.document.getElementById("notebook_name").innerHTML}'`);
+# // получить имя файла не питона а юпитер ноут в переменную ipynb_file_name
+# // работает только когда запускаем вручную 
+
+# # execute_cells_below КНОПКА ПОВТОРНОГО ЗАПУСКА ЯЧЕЕК (после до... below above)
+# from IPython.core.display import display, HTML # НЕ коментить при автогрузе тупит((
+# HTML(f'''<script> </script> <form action="javascript:IPython.notebook.execute_cells_below()">
+#      <input type="submit" id="toggleButton" value="{execute_cells_below_text_value}"></form>''')
+
+# так же не работает выдает пустую стрингу а потом при повторном запуске срабатывает
+# ipynb_file_name = urllib.parse.unquote(ipyparams.notebook_name, encoding='utf-8')
+# ipynb_file_name
+
+
+
+Как я могу добавить оглавление в записную книжку Jupyter / JupyterLab? https://translated.turbopages.org/proxy_u/en-ru.ru.28efc88a-6413e8d3-6fc7d7e0-74722d776562/https/stackoverflow.com/questions/21151450/how-can-i-add-a-table-of-contents-to-a-jupyter-jupyterlab-notebook
+На этот вопрос уже был дан ответ, но вот функция для таких, как я, которым нужно легкое решение, которое они могут вставить в ячейку кода, запустить и получить оглавление для копирования и вставки в ячейку markdown:
+import urllib, json
+def generate_toc(notebook_path, indent_char="&emsp;"):
+    is_markdown = lambda it: "markdown" == it["cell_type"]
+    is_title = lambda it: it.strip().startswith("#") and it.strip().lstrip("#").lstrip()
+    with open(notebook_path, 'r') as in_f:
+        nb_json = json.load(in_f)
+    for cell in filter(is_markdown, nb_json["cells"]):
+        for line in filter(is_title, cell["source"]):
+            line = line.strip()
+            indent = indent_char * (line.index(" ") - 1)
+            title = line.lstrip("#").lstrip()
+            url = urllib.parse.quote(title.replace(" ", "-"))
+            out_line = f"{indent}[{title}](#{url})<br>\n"
+            print(out_line, end="")
+
+
+
+
+
+
+
+
+
+
+
+
