@@ -8,7 +8,7 @@ get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/Connecting_.py'
 get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/my_script.py')
 get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/Date_gen.py')
 get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/xx.py')
-
+from datetime import datetime
 ############################## End ##############################
 
 
@@ -102,21 +102,15 @@ where
 
 , orders as (
 select 
-
-	max_tm::text "z create_date_time" 
-	,to_char(max_tm, 'YYYY-MM-DD HH24:MI:SS') "create_date_time" 
-	,to_char(max_tm, 'YYYY') "YYYY create_date_time" 
-	,to_char(max_tm, 'MM') "MM create_date_time" 
-	,to_char(max_tm, 'DD') "DD create_date_time" 
-	,max_tm_placed::text "max_tm_placed"
+    to_char(max_tm, 'YYYY-MM-DD HH24:MI:SS') "create_date_time"
+    ,ai.account_id "id" --id - номер заказа,
 	,yandex_client_id "client_ids" --client_ids - идентификатор клиента в системе Яндекс Метрики, который передаем по задаче - сбор и передача данных систем аналитики,
-	,ai.account_id "id" --id - номер заказа,
-
+	
 	,case 
 		when ai.state in (9) 
 			and orders.get_order_paid_sum( account_id ) >= orders.get_order_summa_brutto( account_id ) 
 			then 'PAID'			
-		when ai.state in (1, 2, 3, 4, 5, 6, 7)
+		when ai.state in (1, 2, 4, 5, 6, 7)
 --			and orders.get_order_paid_sum( account_id ) < orders.get_order_summa_brutto( account_id ) 
 			then 'IN_PROGRESS'
 		when ai.state in (8, 0, 3) 
@@ -132,19 +126,7 @@ select
 
 		end "order_status"
 	
-	,orders.get_order_summa_brutto_without_logistics(account_id)  "revenue без logistics" -- сумма заказа без стоимости доставки
-	,orders.get_order_summa_brutto(account_id) "revenue c logistics" -- сумма заказа 
-	
-	,last_id_user "id Оформил 1017, 112"
-	,u.name "Оформил 1017, 112"
-	
-	,ai.state "id статусы"
-	,state.name "name статусы"
-	,oplatforms.id "id oplatforms"
-	,oplatforms.name "name oplatforms"
-	 
-	,orders.get_order_paid_sum( account_id ) = orders.get_order_summa_brutto( account_id ) "суммы оплат = общей суммы"
-	,orders.get_order_paid_sum( account_id ) < orders.get_order_summa_brutto( account_id ) "суммы оплат < общей суммы "
+	,orders.get_order_summa_brutto_without_logistics(account_id)  "revenue" -- сумма заказа без стоимости доставки
 	
 from params _
 cross join opentech.account_item ai
@@ -164,7 +146,6 @@ select * from orders
 
 '''
 
-
 AmazonS3_folder_Public = r'/Public/Отчеты (выгрузка jupyter notebooks)'
 AmazonS3_path_to_file = r'/Оплаченные заказы с сайта для метрики/'
 
@@ -178,10 +159,10 @@ for file_zip in zip( [AmazonS3_full_path_customer]
     print( f"✔ .read_sql_query {file_zip[0].split('/')[-1]}" )    
     
     if df_fon.shape[0] != 0:
-        df_fon.to_excel(temp_tmp + file_zip[0].split('/')[-1] + '.xlsx',  index=False, encoding='cp-1251') #   to_excel
-        Amazon_owncloud.put_file( file_zip[0] + '.xlsx', temp_tmp + file_zip[0].split('/')[-1] + '.xlsx' )
-        print( f"✔ Файл записан в облако\n{file_zip[0].split('/')[-1]}.xlsx" )  
-        os.remove(temp_tmp + file_zip[0].split('/')[-1] + '.xlsx' )
+        df_fon.to_csv(temp_tmp + file_zip[0].split('/')[-1] + '.csv', sep = ';', index=False) #   to_csv
+        Amazon_owncloud.put_file( file_zip[0] + '.csv', temp_tmp + file_zip[0].split('/')[-1] + '.csv' )
+        print( f"✔ Файл записан в облако\n{file_zip[0].split('/')[-1]}.csv" )  
+        os.remove(temp_tmp + file_zip[0].split('/')[-1] + '.csv' )
         print( '✔ os.remove' )
         #     print(df_fon) 
         print(f"{datasize.DataSize(sys.getsizeof(df_fon)):MiB}", '(MiB)\n\n' )

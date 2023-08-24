@@ -22,7 +22,7 @@ get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/xx.py')
 start_datetime = datetime.datetime.today()
 name_file = r'[АВТОЗАПУСК] Источники для BI (Продажи_).py'
 path_ipy = r"/opt/anaconda3/envs/jupyter_env/bin/ipython" 
-path_file = fr"/home/slebedev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'{name_file}'" 
+path_file = fr"/home/adorofeev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'{name_file}'" 
 log_info = []
 
 ###########################

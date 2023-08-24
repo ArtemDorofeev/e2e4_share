@@ -17,18 +17,18 @@ get_ipython().run_line_magic('run', '/srv/jhub/share/._Additions/xx.py')
 # )
 ############################## End ##############################
 
-# # В НАЧАЛЕ СКРИПТА АВТОЗАПУСКА
-# # logs crontab АВТОЗАПУСК
+# В НАЧАЛЕ СКРИПТА АВТОЗАПУСКА
+# logs crontab АВТОЗАПУСК
 start_datetime = datetime.datetime.today()
-name_file = r'[АВТОЗАПУСК] Источники для BI (Заказы с метками).py'
+name_file = r'[АВТОЗАПУСК] Источники для BI (Продажи_)-last2month.py'
 path_ipy = r"/opt/anaconda3/envs/jupyter_env/bin/ipython" 
-path_file = fr"/home/adorofeev/jhub-analytics/'_ Analytics department'/'Источники для BI (Продажи)'/'{name_file}'" 
+path_file = fr"/home/adorofeev/jhub-analytics/'[adorofeev] Дорофеев Артём Александрович'/'Продажи'/'{name_file}'" 
 log_info = []
 
 ###########################
-# labels
-path_SQL_fon_labels = glob(abs_path + r'**/' + r"*АВТОЗАПУСК] Источники для BI (Заказы с метками).sql", recursive=True)[0]
-print(f'path_SQL_fon_labels - {path_SQL_fon_labels}')
+
+path_SQL_sales = glob(abs_path + r'**/' + r"*АВТОЗАПУСК] Источники для BI (Продажи_).sql", recursive=True)[0]
+print(f'path_SQL_sales - {path_SQL_sales}')
 
 date_df_start = df_date_m['start'][0]
 date_df_end = df_date_m.iloc[-1, -1]
@@ -36,7 +36,7 @@ date_df_end = df_date_m.iloc[-1, -1]
 
 # public_link = '''https://nextcloud.e2e4.ru/apps/files/?dir=/Public/Отчеты%20(выгрузка%20jupyter%20notebooks)&fileid=2018892'''
 AmazonS3_folder_Public = r'/Public/Отчеты (выгрузка jupyter notebooks)'
-AmazonS3_path_to_file = r'/Источники для BI/Заказы с метками/'
+AmazonS3_path_to_file = r'/Источники для BI/Продажи_/'
 # print('AmazonS3_file_name - ', AmazonS3_file_name, '/nAmazonS3_full_path - ', AmazonS3_full_path)
 Amazon_owncloud = owncloud.Client('https://nextcloud.e2e4.ru')
 Amazon_owncloud.login(loginAtlassianjhubAdmin, passwordAtlassianjhubAdmin)
@@ -44,19 +44,23 @@ Amazon_owncloud.login(loginAtlassianjhubAdmin, passwordAtlassianjhubAdmin)
 
 ## идем по датам, коннектимся, читаем sql file, подставляем даты
 df_fon = pd.DataFrame()
-for i in df_date_m.iloc[:,:].values:
-    AmazonS3_file_name = fr'Источники для BI (Заказы с метками) {i[0]} - {i[1]}' # ({getpass.getuser()})
+for i in df_date_m.iloc[-2:,:].values:
+    AmazonS3_file_name = fr'(Тест id_комплектов)Источники для BI (Продажи) {i[0]} - {i[1]}' # ({getpass.getuser()})
     AmazonS3_full_path = AmazonS3_folder_Public + AmazonS3_path_to_file + AmazonS3_file_name
 
     print(f'{i[0]} || {i[1]}')
 #   читаем sql file
-    with open( path_SQL_fon_labels, "r", encoding = "utf-8" ) as sql_file_labels:
+    with open( path_SQL_sales, "r", encoding = "utf-8" ) as sql_file_sales:
 #       коннектимся 
         with psycopg2.connect(dbname=database, user=user, password=password, host=host) as cnxn:
 #           подставляем даты
             print('подставляем даты, выгружаем')
-            df_fon = pd.read_sql_query(sql_file_labels.read().replace('DATE_START_replce', f'{i[0]}').replace('DATE_END_replce', f'{i[1]}'), cnxn) 
+            df_fon = pd.read_sql_query(sql_file_sales.read().replace('DATE_START_replce', f'{i[0]}').replace('DATE_END_replce', f'{i[1]}'), cnxn) 
             print('✔ .read_sql_query')
+    
+#   !! отсекаем товары на сегодня потому что грузится ночью до указанной даты а надо до всчерашнего конца дня ИСКЛЮЧАЯ СЕГОНЯ НОЧЬ!!  
+    df_fon = df_fon[df_fon['Дата отгрузки товара'].astype(str) != pd.Timestamp.now().strftime( '%Y-%m-%d' )]
+            
     log_info.append( (i, df_fon.shape) )
     if df_fon.shape[0] != 0:
     #   to_excel
@@ -83,11 +87,18 @@ for i in df_date_m.iloc[:,:].values:
         print('✔ os.remove')
     #     print(df_fon) 
         print(f"{datasize.DataSize(sys.getsizeof(df_fon)):MiB}", '(MiB)\n\n' )
-    
+
     else:
         print( df_fon, '-- df.shape =', df_fon.shape)
 
 # В КОНЦЕ СКРИПТА АВТОЗАПУСКА!
+# print('log_info')
+
+# print( log_info[0] )
+# print( log_info[0][0] )
+# print( log_info[0][1] )
+# print( log_info[0][2] )
+
 log_info = str(log_info[0][0]) + ''' ''' + str(log_info[0][1]) + ''' ''' + str(log_info[0][2]) 
 cron_logs( start_datetime=start_datetime, name_file=name_file, path_ipy=path_ipy, path_file=path_file, log_info=log_info )
 print('✔ cron_logs\n\n')
